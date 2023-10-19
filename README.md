@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Danee Dang! Here are some facts about me:
+
+- I am a third year computer science major studying at UCSC.
+- I am proficient in C/C++ and python.
+- I love to cook as a side hobby.
+- I'm currently learning how to make websites and web apps.
+
+
 <!--
 **yiadotm/yiadotm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
